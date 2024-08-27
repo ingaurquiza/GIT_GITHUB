@@ -1,3 +1,9 @@
+Estamos en la rama 1, rrope 
+
+sin afectar la rama principal
+
+
+
 hola perross 
 hola a todos es un archivo de texto plano
 
@@ -13,3 +19,5 @@ modificados usuario y contraseña
 testeando
 
 wazaa
+
+
