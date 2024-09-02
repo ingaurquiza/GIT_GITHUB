@@ -25,6 +25,8 @@ testeando
 
 wazaa
 
+<<<<<<< HEAD
 
 Git vs gitlab
 
+=======
